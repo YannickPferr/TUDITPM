@@ -1,10 +1,5 @@
 # IT Praktikum
-
-In dem Repository werden das IT Praktikum gespeichert.
-
-## Readme.md
-
-In der Readme.md sollen die grundlegenden Nutzungsmöglichkeiten für das Git Repository erklärt werden.
+![TUDITPM Screenshot](tuditpm.png?raw=true "Title")
 
 ## Installation Kafka
 
@@ -47,18 +42,3 @@ Anleitung hier: https://redislabs.com/ebook/redis-in-action/appendix-a/a3-instal
 
 Downloadlink: http://mirror.softaculous.com/apache/lucene/solr/6.3.0 (Nur die zip downloaden)
 Danach entpacken und zum starten den Befhel "solr start" im bin Ordner ausführen
-
-## Branchstruktur
-
-Die folgenden Branches sollen genutzt werden:
-  - develop 
-  - kafka
-    - kafka/master
-    - kafka/feature
-      - kafka/feature/anbindung - z.B. erste Datenanbindung
-  - spark
-    - spark/master
-    - spark/feauture
-      - spark/feature/analytics - z.B. textAnalytics
-
-
